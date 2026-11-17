@@ -1,0 +1,33 @@
+{
+  "message.dont_litter_in_alfheim.trash_littered": "[Alfheim] Trash +%s | EYE: %s/%s (%s%%) | WRATH: %s/%s",
+  "message.dont_litter_in_alfheim.creative_trash_littered": "[Alfheim] Creative Trash! WRATH maxed (%s/%s) -> Resetting to 0",
+  "message.dont_litter_in_alfheim.reset_eye": "[Alfheim] PIXIE anger and trash count reset! (WRATH preserved)",
+  "message.dont_litter_in_alfheim.reset_all": "[Alfheim] Both PIXIE and WRATH counts have been completely reset!",
+  "message.dont_litter_in_alfheim.raid_triggered": "[Alfheim] RAID TRIGGERED! Angry Elves x%s emerged from the portal!",
+  "message.dont_litter_in_alfheim.calamity_triggered": "[Alfheim] CALAMITY BOSS TRIGGERED! The Calamity Elf has descended!",
+  "message.dont_litter_in_alfheim.wrath_triggered": "[Alfheim] ULTIMATE WRATH TRIGGERED! The Ultimate Wrath Elf has appeared!",
+  "message.dont_litter_in_alfheim.souvenir_received": "[Alfheim] The elves accepted %s and sent back a souvenir!",
+  "message.dont_litter_in_alfheim.item_rejected": "[Alfheim] The elves had no interest in %s and returned it.",
+
+  "entity.dont_litter_in_alfheim.calamity_elf": "Calamity Elf",
+  "entity.dont_litter_in_alfheim.ultimate_wrath_elf": "Ultimate Wrath Elf",
+  "entity.dont_litter_in_alfheim.alfheim_enforcer": "Alfheim Enforcer",
+
+  "item.dont_litter_in_alfheim.alfheim_souvenir": "Alfheim Souvenir",
+  "item.dont_litter_in_alfheim.present": "Alfheim Present",
+  "item.dont_litter_in_alfheim.trash": "Overworld Trash",
+  "item.dont_litter_in_alfheim.creative_trash": "Creative Overworld Trash",
+  "item.dont_litter_in_alfheim.apology_letter": "Apology Letter",
+  "item.dont_litter_in_alfheim.creative_apology_letter": "Creative Apology Letter",
+  "item.dont_litter_in_alfheim.alfheim_enforcer_spawn_egg": "Alfheim Enforcer Spawn Egg",
+
+  "creativetab.dont_litter_in_alfheim": "Don't Litter in ALFHEIM",
+
+  "jei.dont_litter_in_alfheim.category.souvenir_trade": "Alfheim Souvenir Trade",
+  "jei.dont_litter_in_alfheim.drop_chance": "Chance: %s",
+  "jei.dont_litter_in_alfheim.trash_info": "Do not illegally dump this into the Alfheim Portal, or you may anger the creatures of Alfheim.",
+  "jei.dont_litter_in_alfheim.creative_trash_info": "Instantly enrages the creatures of Alfheim in a single throw. Never toss this into the Alfheim Portal.",
+  "jei.dont_litter_in_alfheim.apology_info": "Can appease the grudge caused by illegal dumping, though not completely.",
+  "jei.dont_litter_in_alfheim.creative_apology_info": "Grants complete forgiveness for illegal dumping. A last resort.",
+  "jei.dont_litter_in_alfheim.present_info": "Throw this into the Alfheim Portal to exchange it for Alfheim specialties and various other items."
+}

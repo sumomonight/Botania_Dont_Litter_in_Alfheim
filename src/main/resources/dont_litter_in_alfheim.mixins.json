@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.sumomo.dontlitteralfheim.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "dont_litter_in_alfheim.refmap.json",
+  "mixins": [
+    "AlfheimPortalBlockEntityMixin",
+    "BabylonWeaponEntityMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "message.dont_litter_in_alfheim.trash_littered": "[アルフヘイム] ゴミ +%s | 怒り(EYE): %s/%s (%s%%) | 激怒(WRATH): %s/%s",
+  "message.dont_litter_in_alfheim.creative_trash_littered": "[アルフヘイム] 禁忌のゴミ投入！ 激怒(WRATH)が最大(%s/%s)に到達しました",
+  "message.dont_litter_in_alfheim.reset_eye": "[アルフヘイム] エルフたちの怒り(PIXIE)が鎮まりました（WRATHは維持）",
+  "message.dont_litter_in_alfheim.reset_all": "[アルフヘイム] エルフたちの怒り(PIXIE・WRATH)が完全に鎮まりました！",
+  "message.dont_litter_in_alfheim.raid_triggered": "[アルフヘイム] 襲撃発生！ ブチ切れエルフが %s 体飛び出してきた！",
+  "message.dont_litter_in_alfheim.calamity_triggered": "[アルフヘイム] 災厄降臨！ 災厄エルフが現れた！",
+  "message.dont_litter_in_alfheim.wrath_triggered": "[アルフヘイム] 激怒頂点！ 究極激怒エルフが降臨した！",
+  "message.dont_litter_in_alfheim.souvenir_received": "[アルフヘイム] エルフは %s を気に入り、お土産を送り返してきた！",
+  "message.dont_litter_in_alfheim.item_rejected": "[アルフヘイム] エルフは %s に興味を示さず返却した。",
+
+  "entity.dont_litter_in_alfheim.calamity_elf": "災厄エルフ",
+  "entity.dont_litter_in_alfheim.ultimate_wrath_elf": "究極激怒エルフ",
+  "entity.dont_litter_in_alfheim.alfheim_enforcer": "アルフヘイムの執行者",
+
+  "item.dont_litter_in_alfheim.alfheim_souvenir": "アルフヘイムのお土産",
+  "item.dont_litter_in_alfheim.present": "アルフヘイムへの贈り物",
+  "item.dont_litter_in_alfheim.trash": "現世のゴミ",
+  "item.dont_litter_in_alfheim.creative_trash": "禁忌の現世ゴミ",
+  "item.dont_litter_in_alfheim.apology_letter": "お詫び状",
+  "item.dont_litter_in_alfheim.creative_apology_letter": "完全免罪のお詫び状",
+  "item.dont_litter_in_alfheim.alfheim_enforcer_spawn_egg": "アルフヘイムの執行者のスポーンエッグ",
+
+  "creativetab.dont_litter_in_alfheim": "Dont Litter in ALFHEIM",
+
+  "jei.dont_litter_in_alfheim.category.souvenir_trade": "アルフヘイムお土産交換",
+  "jei.dont_litter_in_alfheim.drop_chance": "排出率: %s",
+  "jei.dont_litter_in_alfheim.trash_info": "アルフゲートへ不法投棄しないように、アルフヘイムの生物を怒らせてしまうかもしれません。",
+  "jei.dont_litter_in_alfheim.creative_trash_info": "一発でアルフヘイムの生物を激怒させます。決してアルフゲートへ投げ入れないように。",
+  "jei.dont_litter_in_alfheim.apology_info": "不法投棄の恨みを解消することができます。ただし完全にとは言えません。",
+  "jei.dont_litter_in_alfheim.creative_apology_info": "完全に不法投棄したことを許してもらえます。最終手段です。",
+  "jei.dont_litter_in_alfheim.present_info": "エルフゲートに投げ入れることで、アルフヘイムの特産品や、様々なものを好感してくれます。"
+}
