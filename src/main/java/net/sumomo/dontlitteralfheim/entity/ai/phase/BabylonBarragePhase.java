@@ -1,8 +1,4 @@
-/*
- * Uses vazkii.botania.common.item.BotaniaItems (Botania Mod by Vazkii) for the held-item visual,
- * and EnforcerBladeEntity (a BabylonWeaponEntity subclass) for the projectiles.
- * Distributed under the Botania License: http://botaniamod.net/license.php
- */
+
 package net.sumomo.dontlitteralfheim.entity.ai.phase;
 
 import net.minecraft.core.particles.ParticleTypes;

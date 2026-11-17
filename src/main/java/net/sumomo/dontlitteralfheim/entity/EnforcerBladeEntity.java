@@ -1,3 +1,8 @@
+/*
+ * Tick/charge/launch logic adapted from vazkii.botania.common.entity.BabylonWeaponEntity (Botania Mod by Vazkii)
+ * Distributed under the Botania License: http://botaniamod.net/license.php
+ */
+
 package net.sumomo.dontlitteralfheim.entity;
 
 import net.minecraft.util.Mth;
