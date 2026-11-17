@@ -19,7 +19,6 @@ public class DontLitterInAlfheim {
         IEventBus bus= FMLJavaModLoadingContext.get().getModEventBus();
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::clientSetup);
 
-        // English comments only
         ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, DontLitterConfig.SPEC);
         ModEntities.register(bus);
         ModItems.register(bus);
