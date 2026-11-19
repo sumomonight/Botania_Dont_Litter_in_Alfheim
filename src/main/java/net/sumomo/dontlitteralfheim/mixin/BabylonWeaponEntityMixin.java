@@ -1,5 +1,6 @@
 /*
- * Adapted from vazkii.botania.common.entity.BabylonWeaponEntity (Botania Mod by Vazkii)
+ * Adapted from vazkii.botania.common.entity.BabylonWeaponEntity (Botania Mod by Vazkii).
+ * This file has been modified from the original.
  * Distributed under the Botania License: http://botaniamod.net/license.php
  */
 package net.sumomo.dontlitteralfheim.mixin;
