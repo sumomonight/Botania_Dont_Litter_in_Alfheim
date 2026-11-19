@@ -33,11 +33,17 @@ in the section "Botania License" below. These files must remain open source
 and keep their license notices when redistributed or modified. They were
 altered from the original Botania code.
 
+
+  - src/main/java/net/sumomo/dontlitteralfheim/mixin/BabylonWeaponEntityMixin.java
+      (adapted from vazkii.botania.common.entity.BabylonWeaponEntity)
+
   - src/main/java/net/sumomo/dontlitteralfheim/entity/EnforcerBladeEntity.java
       (adapted from vazkii.botania.common.entity.BabylonWeaponEntity)
+
   - src/main/java/net/sumomo/dontlitteralfheim/client/renderer/AlfheimEnforcerRenderer.java
       (shader uniform handling adapted from
        vazkii.botania.client.render.entity.GaiaGuardianRenderer)
+
 
 Derivative works of the files listed above must also remain open source
 (source visible, redistribution and modification allowed) and must include a
