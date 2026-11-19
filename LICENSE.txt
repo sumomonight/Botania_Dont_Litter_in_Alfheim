@@ -29,10 +29,11 @@ The following files contain code adapted from Botania by Vazkii and the
 Botania team (https://github.com/VazkiiMods/Botania). In addition to the MIT
 License above, these files are subject to the Botania License
 (http://botaniamod.net/license.php), the full text of which is reproduced
-in the section "Botania License" below. These files must remain open source
-and keep their license notices when redistributed or modified. They were
-altered from the original Botania code.
+in the section "Botania License" below.
 
+These files were altered from the original Botania code. They must remain
+open source and retain their applicable license notices when redistributed
+or modified.
 
   - src/main/java/net/sumomo/dontlitteralfheim/mixin/BabylonWeaponEntityMixin.java
       (adapted from vazkii.botania.common.entity.BabylonWeaponEntity)
@@ -46,19 +47,48 @@ altered from the original Botania code.
 
 
 Derivative works of the files listed above must also remain open source
-(source visible, redistribution and modification allowed) and must include a
-clause similar to the Copyleft Clause of the Botania License.
+(source visible, redistribution and modification allowed) and must include
+a clause similar to the Copyleft Clause of the Botania License.
 
-All other files in this project are licensed under the MIT License only.
+
+=========================================================================
+Other Botania references
+=========================================================================
+
+This project references certain classes and functionality provided by
+Botania as an external dependency.
+
+Examples include:
+
+  - vazkii.botania.client.fx.SparkleParticleData
+  - vazkii.botania.client.fx.WispParticleData
+  - vazkii.botania.common.item.BotaniaItems
+
+These references are used to invoke functionality supplied by the installed
+Botania mod. The corresponding Botania implementations are not copied,
+modified, or bundled in this project.
+
+Botania textures, models, sounds, and other assets are not bundled or
+redistributed by this project. They are provided by the Botania dependency
+at runtime.
+
+Such external references do not, by themselves, indicate that the source
+files using them contain code adapted from Botania. The exception above
+identifies the files that contain adapted Botania code.
+
+All other original files in this project are licensed under the MIT License
+only.
 
 
 =========================================================================
 Dependencies and acknowledgements
 =========================================================================
 
-This mod depends on Botania (by Vazkii) and Minecraft Forge. Classes of these
-projects are referenced as external libraries only and are not bundled in this
-project; they remain under their respective licenses:
+This mod depends on Botania (by Vazkii) and Minecraft Forge.
+
+The corresponding classes, implementations, and assets of these projects
+are provided by their respective mods and are not bundled in this project.
+They remain under their respective licenses:
 
   - Botania:         Botania License (http://botaniamod.net/license.php)
   - Minecraft Forge: LGPL 2.1 (https://github.com/MinecraftForge/MinecraftForge)
@@ -99,7 +129,7 @@ Extensive Clause
 This license applies to Botania, the Botania website, the legacy Botania website and all other code, assets or binaries found on this website or the github repository unless otherwise indicated.
 
 Informal Clause
-This license will not hold up in court. I have no intention of suing anyone for breaking it, the worst that can happen to you if you do is that I'll get annoyed and ask you to rectify your mistake. If you use a public distribution platform (such as CurseForge) it's also possible your project will get taken down. Breaking the license also makes you a jerk, and you don't want to be a jerk, do you?
+This license will not hold up in court. I have no intention of suing anyone for breaking it, the worst that can happen if you do is that I'll get annoyed and ask you to rectify your mistake. If you use a public distribution platform (such as CurseForge) it's also possible your project will get taken down. Breaking the license also makes you a jerk, and you don't want to be a jerk, do you?
 
 If you want to Distribute Botania
 "Distribution" refers to making available binaries, assets, or source of the mod available from the original sources as part of your modpack or otherwise.
